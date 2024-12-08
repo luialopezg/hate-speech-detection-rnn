@@ -4,4 +4,4 @@ scikit-learn
 tensorflow
 keras
 jupyter
-
+nltk
